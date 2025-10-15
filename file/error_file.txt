@@ -1,0 +1,5 @@
+1,SV001,Trần Kiên,22,Phú Thok,10.0
+3,SV002,Tran Thi B,21,Hai Phong,7.2
+4,SV004,Tran Thi B,10,Hai Phong,7.2
+5,SV005,Tran Thi B,23,Hai Phong,7.2
+6,SV011,Trần Kiên,23,,9.0

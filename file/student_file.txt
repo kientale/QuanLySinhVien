@@ -1,0 +1,9 @@
+1,SV001,Trần Kiên,22,Phú Thok,10.0
+2,SV002,Tran Thi B,21,Hai Phong,7.2
+3,SV003,Tran Thi B,21,Hai Phong,7.2
+4,SV004,Tran Thi B,10,Hai Phong,7.2
+5,SV005,Tran Thi B,23,Hai Phong,7.2
+6,SV006,Tran Thi B,120,Hai Phong,7.2
+7,SV009,Trần Lê Hoàng Kiên,21,Hưng Yên,9.0
+9,SV007,Trần Kiên,21,Hà Nội,10.0
+10,SV008,Bùi Quỳnh,22,Hà Đông,10.0
